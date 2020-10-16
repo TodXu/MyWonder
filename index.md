@@ -17,11 +17,11 @@ For “I have to call our customer assistance team constantly, which takes time 
 
 
 # Deliverables
-Update terminology and contents
-Separate testing and production environments
-Put a “Note” function in visualizations to allow users to document what they are doing and why through notes in the UI
-Create a few visualization examples in MyWonder for demos
-Create Powerpoint
+Update terminology and contents  
+Separate testing and production environments  
+Put a “Note” function in visualizations to allow users to document what they are doing and why through notes in the UI  
+Create a few visualization examples in MyWonder for demos  
+Create Powerpoint  
 
 # Milestone
 Successful client review and user-friendly demo
