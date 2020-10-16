@@ -28,7 +28,7 @@ Successful client review and user-friendly demo
 
 # Gantt Chart
 
-![image](https://github.com/TodXu/MyWonder/blob/main/gantt.png)
+![Gantt Chart](https://github.com/TodXu/MyWonder/blob/main/gantt.png?raw=true)
 ![](url)
 
 
