@@ -28,7 +28,7 @@ Successful client review and user-friendly demo
 
 # Gantt Chart
 
-![image](https://github.com/TodXu/MyWonder/blob/main/Gantt%20chart%20-%20Copy%20of%20Gantt%20chart.png)
+![image](https://github.com/TodXu/MyWonder/blob/main/gantt.png)
 
 
 
