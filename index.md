@@ -28,7 +28,7 @@ Successful client review and user-friendly demo
 
 # Gantt Chart
 
-![Gantt Chart](https://github.com/TodXu/MyWonder/blob/main/gantt.png?raw=true)
+![Gantt Chart](https://github.com/TodXu/MyWonder/blob/main/water.png?raw=true)
 ![](url)
 
 
